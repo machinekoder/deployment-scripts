@@ -1,1 +1,0 @@
-python ../../Qt-Deployment-Scripts/qt-deploy.py %*
